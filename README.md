@@ -1,2 +1,2 @@
-# support
-Startime Mobile APP Support Page
+# Star Time Mobile APP Support Page
+Users can create an issue in a public repository where issues have not been disabled.
