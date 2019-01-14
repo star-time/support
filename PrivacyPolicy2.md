@@ -43,6 +43,13 @@ Examples of Cookies we use:
 *   **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
 *   **Security Cookies.** We use Security Cookies for security purposes.
 
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [OneSignal](https://onesignal.com/privacy_policy)
+
 ## Use of Data
 
 Startime Fashion uses the collected data for various purposes:
