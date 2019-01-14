@@ -1,16 +1,47 @@
-## Privacy Policy
+# Privacy Policy
 
-Ömer Aslan (Mati Medya) built the Startime Fashion app as a Free app. This SERVICE is provided by Ömer Aslan (Mati Medya) at no cost and is intended for use as is.
+Effective date: January 14, 2019
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Startime Fashion ("us", "we", or "our") operates the Startime Fashion mobile application (the "Service").
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Startime Fashion unless otherwise defined in this Privacy Policy.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-**Information Collection and Use**
+## Information Collection And Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to phone,email,country.
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+*   Email address
+*   First name and last name
+*   Phone number
+*   Country
+*   Location
+*   Cookies and Usage Data
+
+#### Usage Data
+
+When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+*   **Session Cookies.** We use Session Cookies to operate our Service.
+*   **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+*   **Security Cookies.** We use Security Cookies for security purposes.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -19,43 +50,72 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [OneSignal](https://onesignal.com/privacy_policy)
 
-**Log Data**
+## Use of Data
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Startime Fashion uses the collected data for various purposes:
 
-**Cookies**
+*   To provide and maintain the Service
+*   To notify you about changes to our Service
+*   To allow you to participate in interactive features of our Service when you choose to do so
+*   To provide customer care and support
+*   To provide analysis or valuable information so that we can improve the Service
+*   To monitor the usage of the Service
+*   To detect, prevent and address technical issues
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## Transfer Of Data
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-**Service Providers**
+If you are located outside Turkey and choose to provide information to us, please note that we transfer the data, including Personal Data, to Turkey and process it there.
 
-I may employ third-party companies and individuals due to the following reasons:
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Startime Fashion will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+## Disclosure Of Data
 
-**Security**
+### Legal Requirements
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Startime Fashion may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-**Links to Other Sites**
+*   To comply with a legal obligation
+*   To protect and defend the rights or property of Startime Fashion
+*   To prevent or investigate possible wrongdoing in connection with the Service
+*   To protect the personal safety of users of the Service or the public
+*   To protect against legal liability
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## Security Of Data
 
-**Children’s Privacy**
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
-These Services do not address anyone under the age of 13\. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+## Service Providers
 
-**Changes to This Privacy Policy**
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-**Contact Us**
+## Links To Other Sites
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 13\. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+*   By email: matimedyaapp@gmail.com
