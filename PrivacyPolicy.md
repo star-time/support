@@ -2,7 +2,7 @@
 
 Effective date: January 14, 2019
 
-Startime Fashion ("us", "we", or "our") operates the Startime Fashion mobile application (the "Service").
+Startime Fashion ("us", "we", or "our") operates the InCity mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
